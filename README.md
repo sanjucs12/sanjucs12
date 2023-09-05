@@ -1,7 +1,7 @@
 [![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sanju C S</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjucs12&label=Profile%20views&color=0e75b6&style=flat" alt="sanjucs12" /> </p>
 - 👨‍💻 All of my projects are available at -->>  https://sanjucs-portfolio.netlify.app/
 
